@@ -1,22 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About Me"
-    url: /about_me/
-    description: "All about me, my interests, and experiences"
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Resume/CV"
+    url: /resume/
   - title: "Projects"
     url: /projects/
-    description: "Works in progress, write-ups, and documentation"
   - title: "Publications"
     url: /publications/
-    description: "Research topics and papers"
-  - title: "Musings"
-    url: /musings/
-    description: "What is on my mind, casual thoughts"
   - title: "Contact"
     url: /contact/
-    description: "How to reach me"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
