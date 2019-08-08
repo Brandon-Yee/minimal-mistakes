@@ -1,4 +1,10 @@
-defaults:
+---
+permalink: /projects/
+classes: wide
+title: Projects
+---
+
+defaults
   # _pages
   - scope:
       path: "/projects/"
