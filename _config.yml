@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brandon Yee"
+title                    : "My Personal Page"
 title_separator          : "|"
-subtitle                 : "Electrical Engineering Master's Student at the University of Washington"# site tagline that appears below site title in masthead
+subtitle                 : "a website about my projects and me"# site tagline that appears below site title in masthead
 name                     : "Brandon Yee"
-description              : "Portfolio website for professional networking, project documentation, and autobiography"
+description              : "Electrical Engineering Master's Student at the University of Washington-Seattle, Go Dawgs!"
 url                      : "https://brandon-yee.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "Brandon-Yee/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
