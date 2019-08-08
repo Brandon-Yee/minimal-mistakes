@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Personal Page"
-title_separator          : "|"
-subtitle                 : "a website about my projects and me"# site tagline that appears below site title in masthead
+title                    : "Brandon Yee"
+title_separator          : ""
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Brandon Yee"
 description              : "Electrical Engineering Master's Student at the University of Washington-Seattle, Go Dawgs!"
 url                      : "https://brandon-yee.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Brandon Yee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an master's student studying electrical engineering at the University of Washington."
+  bio              : "Electrical Engineering Master's Student at the University of Washington-Seattle, Go Dawgs!"
   location         : "Seattle, WA"
   email            :
   links:
@@ -293,4 +293,17 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
       related: true
