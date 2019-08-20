@@ -3,22 +3,38 @@ permalink: /projects/
 layout: single
 classes: wide
 title: Projects
+author_profile: false
+sidebar:
+  nav: "projects"
+read_time: false
 ---
 
 ## Current Projects
-### ESP-32KER: *a bluetooth speaker based on the ESP-32*
-Keywords: `WiFi`, `Bluetooth`, `I2S`, `Embedded`, `Microprocessor`, `C`, `Laser Cutting`, `3D Printing`, ...
+### ESP32-KER:
+*A bluetooth speaker based on the ESP-32*
+
+Keywords: `3D Printing`, `Bluetooth`, `C`, `Embedded`, `ESP32`, `I2S`, `Laser Cutting`, `Microprocessor`, `WiFi`
+
 ### FPGA Image Convolution Acceleration
-Keywords: `SystemVerilog`, `FPGA`, `Digital Design`, `SPI`, `Computer Vision`, ...
+Keywords: `Computer Vision`, `Digital Design`, `FPGA`, `SPI`, `SystemVerilog`
+
 ### FPGA Risc-V Implementation
-Keywords: `SystemVerilog`, `FPGA`, `Digital Design`, `Microprocessor`, `Computer Architecture`, ...
+Keywords: `Computer Architecture`, `Digital Design`, `FPGA`, `Microprocessor`, `SystemVerilog`
+
 ### Sensor Suite for Plant Monitoring
-Keywords: `SPI`, `I2C`, `Embedded`, `Microprocessor`, `UART`, `Bluetooth`, ...
+Keywords: `Bluetooth`, `Embedded`, `I2C`, `Microprocessor`, `SPI`, `UART`
+
 ### Custom Mechanical Keyboard
-Keywords: `Embedded`, `Microprocessor`, `3D Printing`, ...
-### Skill Tree: *a planning tool for professional and personal development*
-Keywords: `Python`, `PyQT`, ...
-### Financial Manager: *a python app for all your personal finance needs*
-Keywords: `Python`, `TensorFlow`, `Keras`, `PyTorch`, `Numpy`, `Pandas`, `PyQt`, `Statistics`, `Machine Learning`, `Finance`, ...
+Keywords: `3D Printing`, `Embedded`, `Microprocessor`
+
+### Skill Tree:
+*A planning tool for professional and personal development*
+
+Keywords: `PyQT`, `Python`
+
+### Financial Manager:
+*A python app for all your personal finance needs*
+
+Keywords: `Finance`, `Keras`, `Machine Learning`, `Numpy`, `Pandas`, `PyQt`, `Python`, `PyTorch`, `Statistics`, `TensorFlow`
 
 ## Past Projects

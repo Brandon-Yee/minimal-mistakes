@@ -18,3 +18,24 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+projects:
+  - title: Current Projects
+    children:
+      - title: "ESP32-KER"
+        url: /projects/ESP32-KER/
+      - title: "FPGA Image Convolution Acceleration"
+        url: /projects/image-convolution/
+      - title: "FPGA Risc-V"
+        url: /projects/fpga-riscv
+      - title: "Plant Monitoring Sensor Suite"
+        url: /projects/plant-monitoring/
+      - title: "Custom Mechnical Keyboard"
+        url: /projects/mech-keyboard/
+      - title: "Skill Tree"
+        url: /projects/skill-tree/
+      - title: "Finanial Manager"
+        url: /projects/financial-manager/
+  - title: Past Projects
+    children:
+      - title: "None right now"
